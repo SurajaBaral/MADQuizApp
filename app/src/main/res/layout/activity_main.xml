@@ -10,6 +10,7 @@
         android:id="@+id/tvTotalques"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="@color/grey"
         android:text="Total Questions"
         android:textStyle="italic"
         android:layout_centerHorizontal="true"
@@ -68,11 +69,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/llChoices"
-        android:layout_centerHorizontal="true"
         android:layout_centerInParent="true"
+        android:layout_marginTop="18dp"
         android:backgroundTint="@color/white"
         android:text="Submit"
         android:textColor="@color/black"
-        android:textStyle="bold"
-        android:layout_marginTop="18dp"/>
+        android:textStyle="bold" />
 </RelativeLayout>
