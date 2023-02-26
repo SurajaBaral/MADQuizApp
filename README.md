@@ -17,6 +17,6 @@ Usage
 
 -Answer each question by selecting one of the multiple-choice options.
 
--Click on the "Submit" button to move on to the nect question.
+-Click on the "Submit" button to move on to the next question.
 
 -After answering all the questions, you will be able to see your score.
